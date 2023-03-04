@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>images/path.png</file>
+        <file>images/water.png</file>
+        <file>images/grass.png</file>
+        <file>images/zom.gif</file>
+        <file>images/plant1.jpg</file>
+        <file>images/m1.png</file>
+        <file>images/select1.png</file>
+        <file>images/g1.gif</file>
+        <file>images/g2.gif</file>
+        <file>images/select2.png</file>
+        <file>images/m2.png</file>
+        <file>images/b1.png</file>
+        <file>images/sexy.gif</file>
+        <file>images/b2.png</file>
+        <file>images/b3.png</file>
+        <file>images/start.png</file>
+        <file>images/loss.jpg</file>
+        <file>images/win.png</file>
+        <file>images/w.png</file>
+        <file>images/zom.Png</file>
+        <file>images/jipao.png</file>
+        <file>images/shan.png</file>
+        <file>images/shancd.png</file>
+        <file>images/kuang.png</file>
+        <file>images/km.png</file>
+        <file>images/chan.png</file>
+    </qresource>
+</RCC>
